@@ -4,8 +4,8 @@
 - You can win only if you get a row of three similar letter.
 - Each letter has different value which is multiplied with the bet amount.
 
-##Bugs :worm:
-None.
+##Bugs :bug:
+- None.
 
 ## Future development
 The project is a simple one and the following developments are to be made:
@@ -15,4 +15,4 @@ The project is a simple one and the following developments are to be made:
 - Conecting the app to a database after the completing the development above.
 
 **Author** :goat:
-Bravin Onwonga
+- Bravin Onwonga
